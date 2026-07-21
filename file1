@@ -1,4 +1,10 @@
 one
 two
+<<<<<<< HEAD
 three
 four
+=======
+thre
+four
+five
+>>>>>>> dev
